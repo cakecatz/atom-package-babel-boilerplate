@@ -1,0 +1,9 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Details'
+      'command': 'atom-package-babel-boilerplate:show-info'
+    ]
+  }
+]

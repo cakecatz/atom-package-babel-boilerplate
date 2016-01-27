@@ -1,0 +1,1 @@
+# Atom package babel boilerplate

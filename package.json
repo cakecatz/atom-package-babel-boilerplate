@@ -1,0 +1,16 @@
+{
+  "name": "atom-package-babel-boilerplate",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./lib/main",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "atom": "^1.0.8"
+  },
+  "author": "Ryo Narita",
+  "license": "MIT"
+}

@@ -1,0 +1,9 @@
+{
+  "extends": "airbnb/base",
+  "rules": {
+    "max-len": [2, 120, 4]
+  },
+  "globals": {
+    "atom": true,
+  }
+}

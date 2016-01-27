@@ -1,0 +1,6 @@
+{
+  "config": {
+    "type": "boolean",
+    "default": true
+  }
+}

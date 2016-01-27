@@ -1,0 +1,5 @@
+'.platform-linux atom-workspace, .platform-win32 atom-workspace':
+  'ctrl-"': 'atom-package-babel-boilerplate:show-info'
+
+'.platform-darwin atom-workspace':
+  'cmd-"': 'atom-package-babel-boilerplate:show-info'
